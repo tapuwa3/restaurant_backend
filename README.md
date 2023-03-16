@@ -4,7 +4,7 @@ Development of restaurant app backend.
 Java Spingboot tool used to develop application using the Spring Framework.
 
 Language: 
-JAVA
+JAVA 17
 
 Project: 
 MAVEN
